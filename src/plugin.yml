@@ -1,7 +1,0 @@
-name: EasyMOTD
-author: ItsAlfiee
-version: 1.1.0
-main: net.EasyMOTD.Main
-description: Create awesome MOTDs easily
-commands:
-  easymotd:
